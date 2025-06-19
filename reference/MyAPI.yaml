@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: MyAPI
   version: '1.0'
+  summary: asasa
 servers:
   - url: 'http://localhost:3000'
 paths:
